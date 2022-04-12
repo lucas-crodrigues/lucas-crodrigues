@@ -18,3 +18,8 @@ Currently I'm working on the [Microverse](https://www.microverse.org/) program a
      alt="My twitter profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
+<a href="https://www.instagram.com/lukebutcooler/">
+  <img width="32" align="left"
+     alt="My instagram profile"
+     src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">
+</a>
