@@ -31,9 +31,22 @@ Currently, I'm working on the [Microverse](https://www.microverse.org/) program 
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">
 </a>
 <br>
-<br>
+<hr>
+<h4 align="center">I'm familiar with the following languages and technologies.</h4>
+
+<div align="center">  
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML 5 logo" height="50" />  
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS 3 logo" height="50" />  
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript logo" height="50" />  
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS logo" height="50" />  
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" alt="Webpack logo" height="50" />    
+</div>
+
+<hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-crodrigues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-crodrigues&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 <p align="center"> 
   Visitor count<br>
