@@ -22,11 +22,6 @@ I'm based in [BR](https://www.google.com/search?q=Brasil&sxsrf=APq-WBstlp-sj60Hh
      alt="My LinkedIn profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
-<a href="https://twitter.com/lcrodrigues58">
-  <img width="32" align="left"
-     alt="My twitter profile"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
-</a>
 <a href="https://www.instagram.com/lukebutcooler/">
   <img width="32" align="left"
      alt="My instagram profile"
