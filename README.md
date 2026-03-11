@@ -49,9 +49,3 @@ I'm based in [BR](https://www.google.com/search?q=Brasil&sxsrf=APq-WBstlp-sj60Hh
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-crodrigues)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lucas-crodrigues/count.svg" />
-</p>
